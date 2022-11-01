@@ -50,7 +50,7 @@ class Solution:
         """
         Check whether the queue is full.
         Returns:
-          True if it is full, else returns False.
+          True if it is full, else returns False.  
         """
         return self.rear == self.size - 1
 
